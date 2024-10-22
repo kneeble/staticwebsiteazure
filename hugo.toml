@@ -1,0 +1,112 @@
+baseurl      = "localhost"
+title        = "Kaleb Neeble"
+defaultContentLanguage = "en"
+languageCode = "en-us"
+theme        = "hello-friend-ng"
+[pagination]
+pagerSize     = 10
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+  # Subtitle for home
+  homeSubtitle = "A static website"
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Enable sharing buttons, if you like
+  enableSharingButtons = true
+
+  # Show a global language switcher in the navigation bar
+  enableGlobalLanguageMenu = true
+
+
+  # Metadata mostly used in document's head
+  description = "My new homepage or blog"
+  keywords = "homepage, blog"
+  images = [""]
+
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/kneeble"
+
+  [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/kaleb-neeble-8a7983273/"
+
+
+[taxonomies]
+    category = "blog"
+    tag      = "tags"
+    series   = "series"
+
+[languages]
+  [languages.en]
+      [languages.en.params]
+        title = "Hello visitors"
+        keywords = ""
+        copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+        readOtherPosts = "Read other posts"
+
+
+
+    [languages.en.params.logo]
+      logoText = "hello visitors"
+      logoHomeLink = "/"
+
+    [languages.es]
+      languageName = "Español"
+      languageCode = "es"
+      title = "Kaleb Neeble"
+      homeSubtitle = "un sitio web estático"
+
+    [languages.es.params.logo]
+        logoText = "hola visitantes"
+        logoHomeLink = "/"
+
+    [languages.fr]
+      languageName = "Français"
+      languageCode = "fr"
+      title = "Kaleb Neeble"
+      homeSubtitle = "Un site web statique"
+    [languages.fr.params.logo]
+        logoText = "bonjour visiteurs"
+        logoHomeLink = "/"
+
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+  # And you can even create generic menu
+  [[languages.en.menu.main]]
+    identifier = "about"
+    name       = "about me"
+    url        = "/posts/about-me/"
+
+  [[languages.es.menu.main]]
+    identifier = "about"
+    name       = "Acerca de mí"
+    url        = "/posts/about-me/"
+
+  [[languages.fr.menu.main]]
+    identifier = "about"
+    name       = "sur moi"
+    url        = "/posts/about-me/"
+
+  [[languages.en.menu.main]]
+      identifier = "posts"
+      name       = "posts"
+      url        = "/posts/post/"
+  [[languages.es.menu.main]]
+      identifier = "posts"
+      name       = "publicaciones"
+      url        = "/posts/post/"
+  [[languages.fr.menu.main]]
+      identifier = "posts"
+      name       = "messages"
+      url        = "/posts/post/"

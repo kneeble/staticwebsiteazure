@@ -1,0 +1,29 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Kaleb Neeble</title>
+        <link>//localhost:1313/fr/posts/</link>
+        <description>Recent content in Posts on Kaleb Neeble</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>fr</language>
+        <lastBuildDate>Tue, 15 Oct 2024 23:51:22 -0500</lastBuildDate>
+        <atom:link href="//localhost:1313/fr/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Sur moi</title>
+            <link>//localhost:1313/fr/posts/about-me/</link>
+            <pubDate>Tue, 15 Oct 2024 23:51:22 -0500</pubDate>
+            
+            <guid>//localhost:1313/fr/posts/about-me/</guid>
+            <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Bonjour ! Je m&amp;rsquo;appelle Kaleb Neeble et je suis passionné par la cybersécurité. Il s&amp;rsquo;agit de mon site Web personnel où je partage des idées sur des sujets liés à la cybersécurité et mon parcours dans le domaine de la cybersécurité.&lt;/p&gt;
+&lt;p&gt;J&amp;rsquo;ai une solide expérience en programmation et j&amp;rsquo;aime travailler sur des projets impliquant la personnalisation et la finance. Sur ce site Web, vous pouvez vous attendre à des articles sur différents sujets liés à la cybersécurité et sur différents projets sur lesquels je travaille.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<h2 id="introduction">Introduction</h2>
+<p>Bonjour ! Je m&rsquo;appelle Kaleb Neeble et je suis passionné par la cybersécurité. Il s&rsquo;agit de mon site Web personnel où je partage des idées sur des sujets liés à la cybersécurité et mon parcours dans le domaine de la cybersécurité.</p>
+<p>J&rsquo;ai une solide expérience en programmation et j&rsquo;aime travailler sur des projets impliquant la personnalisation et la finance. Sur ce site Web, vous pouvez vous attendre à des articles sur différents sujets liés à la cybersécurité et sur différents projets sur lesquels je travaille.</p>
+<h3 id="contactez-moi">Contactez-moi</h3>
+<p>N&rsquo;hésitez pas à me contacter sur <a href="https://www.linkedin.com/in/kaleb-neeble-8a7983273/">LinkedIn</a> et à suivre mes projets sur <a href="https://github.com/kneeble">Github</a></p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>

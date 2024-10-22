@@ -1,0 +1,29 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Kaleb Neeble</title>
+        <link>//localhost:1313/es/posts/</link>
+        <description>Recent content in Posts on Kaleb Neeble</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>es</language>
+        <lastBuildDate>Tue, 15 Oct 2024 23:51:22 -0500</lastBuildDate>
+        <atom:link href="//localhost:1313/es/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Acerca de mí</title>
+            <link>//localhost:1313/es/posts/about-me/</link>
+            <pubDate>Tue, 15 Oct 2024 23:51:22 -0500</pubDate>
+            
+            <guid>//localhost:1313/es/posts/about-me/</guid>
+            <description>&lt;h2 id=&#34;introducción&#34;&gt;Introducción&lt;/h2&gt;
+&lt;p&gt;¡Hola! Mi nombre es Kaleb Neeble y soy un apasionado de la ciberseguridad. Este es mi sitio web personal, donde comparto mis conocimientos sobre temas de ciberseguridad y mi trayectoria en el campo de la ciberseguridad.&lt;/p&gt;
+&lt;p&gt;Tengo una sólida formación en programación y me encanta trabajar en proyectos que involucran personalización y finanzas. En este sitio web, puedes encontrar publicaciones sobre diferentes temas relacionados con la ciberseguridad y los diferentes proyectos en los que estoy trabajando.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<h2 id="introducción">Introducción</h2>
+<p>¡Hola! Mi nombre es Kaleb Neeble y soy un apasionado de la ciberseguridad. Este es mi sitio web personal, donde comparto mis conocimientos sobre temas de ciberseguridad y mi trayectoria en el campo de la ciberseguridad.</p>
+<p>Tengo una sólida formación en programación y me encanta trabajar en proyectos que involucran personalización y finanzas. En este sitio web, puedes encontrar publicaciones sobre diferentes temas relacionados con la ciberseguridad y los diferentes proyectos en los que estoy trabajando.</p>
+<h3 id="contáctame">Contáctame</h3>
+<p>No dudes en comunicarte conmigo a través de <a href="https://www.linkedin.com/in/kaleb-neeble-8a7983273/">LinkedIn</a> y seguir mis proyectos en <a href="https://github.com/kneeble">Github</a></p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
