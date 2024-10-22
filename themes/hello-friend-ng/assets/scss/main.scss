@@ -19,3 +19,12 @@
 @import "sharing-buttons";
 @import "tables";
 @import "404";
+
+.profile-image{
+    width: 200px;
+    height: 200px; 
+    object-fit: cover;
+    border-radius: 50%;
+    display: block;
+    margin: 20px auto;
+}
