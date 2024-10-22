@@ -41,6 +41,12 @@ jobs:
           action: "upload"
           app_location: "/"         # This is the root of your Hugo site
           api_location: ""          # No API directory
+
+
+
+
+
+          #final test
           output_location: "public" # Output directory where Hugo builds the site
 #TEST NEW DOMAIN
 #deploy
