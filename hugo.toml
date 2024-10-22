@@ -1,4 +1,4 @@
-baseurl      = "localhost"
+baseurl      = "https://white-water-03e1a871e.5.azurestaticapps.net"
 title        = "Kaleb Neeble"
 defaultContentLanguage = "en"
 languageCode = "en-us"
