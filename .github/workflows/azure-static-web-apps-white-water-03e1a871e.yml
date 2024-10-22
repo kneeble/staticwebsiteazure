@@ -27,9 +27,6 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
-      - name: Install Node.js dependencies
-        run: npm install
-
       # Step 3: Build the Hugo site
       - name: Build Hugo site
         run: hugo --minify
