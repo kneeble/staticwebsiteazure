@@ -43,3 +43,4 @@ jobs:
           api_location: ""          # No API directory
           output_location: "public" # Output directory where Hugo builds the site
 #TEST NEW DOMAIN
+#deploy
