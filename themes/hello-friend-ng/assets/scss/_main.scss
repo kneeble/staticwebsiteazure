@@ -37,10 +37,6 @@ body {
     font-size: 1rem;
   }
 
-  @media (prefers-color-scheme: dark) {
-    background-color: $dark-background;
-    color: $dark-color;
-  }
 
   @media (prefers-color-scheme: light) {
     background-color: $light-background;
