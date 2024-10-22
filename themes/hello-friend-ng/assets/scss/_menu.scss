@@ -3,14 +3,16 @@
   // Default
   background: $light-background-header;
 
-
+  @media (prefers-color-scheme: dark) {
+    background: $dark-background-header;
+  }
 
   @media (prefers-color-scheme: light) {
     background: $light-background-header;
   }
 
   [data-theme=dark] & {
-    background: $light-background-header;
+    background: $dark-background-header;
   }
 
   [data-theme=light] & {
@@ -25,7 +27,7 @@
     margin: 0;
     padding: 10px;
   }
-
+  
   &__inner {
     display: flex;
     align-items: center;
@@ -84,14 +86,16 @@
 .submenu {
   background: $light-background-header;
 
-  
+  @media (prefers-color-scheme: dark) {
+    background: $dark-background-header;
+  }
 
   @media (prefers-color-scheme: light) {
     background: $light-background-header;
   }
 
   [data-theme=dark] & {
-    background: $light-background-header;
+    background: $dark-background-header;
   }
 
   [data-theme=light] & {
@@ -117,14 +121,14 @@
   .dropdown-content {
     display: none;
     position: absolute;
-    background: $light-background-header;
+    background: $dark-background-header;
 
     @media (prefers-color-scheme: light) {
       background: $light-background-header;
     }
     
     [data-theme=dark] & {
-      background: $light-background-header;
+      background: $dark-background-header;
     }
   
     [data-theme=light] & {
@@ -140,14 +144,14 @@
   }
 
   .dropdown-content a:hover {
-    background: $light-background-header;
+    background: $dark-background-header;
     
     @media (prefers-color-scheme: light) {
       background: $light-background-header;
     }
 
     [data-theme=dark] & {
-      background: $light-background-header;
+      background: $dark-background-header;
     }
   
     [data-theme=light] & {
