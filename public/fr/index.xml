@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kaleb Neeble</title>
-    <link>//localhost:1313/fr/</link>
+    <link>http://localhost:1313/fr/</link>
     <description>Recent content on Kaleb Neeble</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Tue, 15 Oct 2024 23:51:22 -0500</lastBuildDate>
-    <atom:link href="//localhost:1313/fr/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sur moi</title>
-      <link>//localhost:1313/fr/posts/about-me/</link>
+      <link>http://localhost:1313/fr/posts/about-me/</link>
       <pubDate>Tue, 15 Oct 2024 23:51:22 -0500</pubDate>
-      <guid>//localhost:1313/fr/posts/about-me/</guid>
+      <guid>http://localhost:1313/fr/posts/about-me/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Bonjour ! Je m&amp;rsquo;appelle Kaleb Neeble et je suis passionné par la cybersécurité. Il s&amp;rsquo;agit de mon site Web personnel où je partage des idées sur des sujets liés à la cybersécurité et mon parcours dans le domaine de la cybersécurité.&lt;/p&gt;&#xA;&lt;p&gt;J&amp;rsquo;ai une solide expérience en programmation et j&amp;rsquo;aime travailler sur des projets impliquant la personnalisation et la finance. Sur ce site Web, vous pouvez vous attendre à des articles sur différents sujets liés à la cybersécurité et sur différents projets sur lesquels je travaille.&lt;/p&gt;</description>
     </item>
   </channel>

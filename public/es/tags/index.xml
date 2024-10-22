@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Kaleb Neeble</title>
-    <link>//localhost:1313/es/tags/</link>
+    <link>http://localhost:1313/es/tags/</link>
     <description>Recent content in Tags on Kaleb Neeble</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate>Tue, 15 Oct 2024 23:51:22 -0500</lastBuildDate>
-    <atom:link href="//localhost:1313/es/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/es/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sin Etiquetar</title>
-      <link>//localhost:1313/es/tags/sin-etiquetar/</link>
+      <link>http://localhost:1313/es/tags/sin-etiquetar/</link>
       <pubDate>Tue, 15 Oct 2024 23:51:22 -0500</pubDate>
-      <guid>//localhost:1313/es/tags/sin-etiquetar/</guid>
+      <guid>http://localhost:1313/es/tags/sin-etiquetar/</guid>
       <description></description>
     </item>
   </channel>
