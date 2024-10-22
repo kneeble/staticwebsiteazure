@@ -58,7 +58,7 @@ pagerSize     = 10
       logoText = "hello visitors"
       logoHomeLink = "/"
 
-    [languages.es]
+    [languages.es.params]
       languageName = "Español"
       languageCode = "es"
       title = "Kaleb Neeble"
@@ -68,7 +68,7 @@ pagerSize     = 10
         logoText = "hola visitantes"
         logoHomeLink = "/"
 
-    [languages.fr]
+    [languages.fr.params]
       languageName = "Français"
       languageCode = "fr"
       title = "Kaleb Neeble"
