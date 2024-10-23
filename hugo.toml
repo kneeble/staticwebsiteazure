@@ -58,24 +58,9 @@ pagerSize     = 10
       logoText = "hello visitors"
       logoHomeLink = "/"
 
-    [languages.es.params]
-      languageName = "Español"
-      languageCode = "es"
-      title = "Kaleb Neeble"
-      homeSubtitle = "un sitio web estático"
+    
 
-    [languages.es.params.logo]
-        logoText = "hola visitantes"
-        logoHomeLink = "/"
-
-    [languages.fr.params]
-      languageName = "Français"
-      languageCode = "fr"
-      title = "Kaleb Neeble"
-      homeSubtitle = "Un site web statique"
-    [languages.fr.params.logo]
-        logoText = "bonjour visiteurs"
-        logoHomeLink = "/"
+    
 
     # or
     #
@@ -88,25 +73,10 @@ pagerSize     = 10
     name       = "about me"
     url        = "/posts/about-me/"
 
-  [[languages.es.menu.main]]
-    identifier = "about"
-    name       = "Acerca de mí"
-    url        = "/posts/about-me/"
-
-  [[languages.fr.menu.main]]
-    identifier = "about"
-    name       = "sur moi"
-    url        = "/posts/about-me/"
+  
 
   [[languages.en.menu.main]]
       identifier = "posts"
       name       = "posts"
       url        = "/posts/posts"
-  [[languages.es.menu.main]]
-      identifier = "posts"
-      name       = "publicaciones"
-      url        = "/posts/posts"
-  [[languages.fr.menu.main]]
-      identifier = "posts"
-      name       = "messages"
-      url        = "/posts/posts"
+  
