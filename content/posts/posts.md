@@ -15,7 +15,7 @@ tags:
 
 After months of planning and development, I'm thrilled to officially launch my personal website! This platform is dedicated to sharing my journey in **cybersecurity**, as well as my insights, projects, and resources related to programming and technology.
 
-The site is built using **Hugo**, a powerful static site generator, and is hosted on **Azure**, leveraging modern cloud infrastructure to keep everything running smoothly. You can explore blog posts, project breakdowns, and tutorials that dive into key topics, from cybersecurity threats to hands-on coding solutions.
+The site is built using **Hugo**s, a powerful static site generator, and is hosted on **Azure**, leveraging modern cloud infrastructure to keep everything running smoothly. You can explore blog posts, project breakdowns, and tutorials that dive into key topics, from cybersecurity threats to hands-on coding solutions.
 
 ### What You’ll Find Here
 
