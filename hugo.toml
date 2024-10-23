@@ -101,12 +101,12 @@ pagerSize     = 10
   [[languages.en.menu.main]]
       identifier = "posts"
       name       = "posts"
-      url        = "/posts/post/"
+      url        = "/posts/posts"
   [[languages.es.menu.main]]
       identifier = "posts"
       name       = "publicaciones"
-      url        = "/posts/post/"
+      url        = "/posts/posts"
   [[languages.fr.menu.main]]
       identifier = "posts"
       name       = "messages"
-      url        = "/posts/post/"
+      url        = "/posts/posts"

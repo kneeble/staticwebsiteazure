@@ -20,6 +20,9 @@
                 href="http://localhost:1313/posts/about-me/"
                 />
   </url><url>
+    <loc>http://localhost:1313/tags/cybersecurity/</loc>
+    <lastmod>2024-10-15T23:51:22-05:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2024-10-15T23:51:22-05:00</lastmod>
     <xhtml:link
@@ -37,6 +40,9 @@
                 hreflang="en"
                 href="http://localhost:1313/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/tags/launch/</loc>
+    <lastmod>2024-10-15T23:51:22-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-10-15T23:51:22-05:00</lastmod>
@@ -74,7 +80,13 @@
                 href="http://localhost:1313/tags/"
                 />
   </url><url>
+    <loc>http://localhost:1313/posts/posts/</loc>
+    <lastmod>2024-10-15T23:51:22-05:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/untagged/</loc>
+    <lastmod>2024-10-15T23:51:22-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/website/</loc>
     <lastmod>2024-10-15T23:51:22-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/</loc>
