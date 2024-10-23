@@ -3,12 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/fr/</loc>
-    <lastmod>2024-10-15T23:51:22-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/"
-                />
+    <lastmod>2024-10-23T23:51:22-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -16,20 +11,17 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="http://localhost:1313/fr/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/tags/non-%C3%A9tiquet%C3%A9/</loc>
-    <lastmod>2024-10-15T23:51:22-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/fr/posts/</loc>
-    <lastmod>2024-10-15T23:51:22-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/posts/"
-                />
+    <lastmod>2024-10-23T23:51:22-05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -37,9 +29,17 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="http://localhost:1313/fr/posts/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/non-%C3%A9tiquet%C3%A9/</loc>
+    <lastmod>2024-10-15T23:51:22-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fr/posts/about-me/</loc>
     <lastmod>2024-10-15T23:51:22-05:00</lastmod>

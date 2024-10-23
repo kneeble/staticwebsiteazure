@@ -1,6 +1,6 @@
 ---
 title: "The Launch of My Personal Website"
-date: 2024-10-23T23:51:22-05:00
+date: 2024-10-15T23:51:22-05:00
 draft: false
 
 toc: false
