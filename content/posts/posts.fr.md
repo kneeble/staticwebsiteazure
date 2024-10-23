@@ -32,3 +32,4 @@ Ce n'est que le début ! Dans les semaines à venir, je vais ajouter de nouveaux
 Si vous êtes intéressé par une collaboration ou souhaitez discuter de tout ce qui concerne la technologie, n'hésitez pas à me contacter sur [LinkedIn](https://www.linkedin.com/in/kaleb-neeble-8a7983273/). Vous pouvez également consulter mes projets et mon code sur [GitHub](https://github.com/kneeble).
 
 Merci de votre visite, et je suis impatient de partager ce voyage avec vous !
+e
