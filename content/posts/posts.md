@@ -8,24 +8,24 @@ images:
 tags:
   - launch
   - website
-  - cybersecurity
+  - ai
 ---
 
 ## Welcome to My Personal Website!
 
-After months of planning and development, I'm thrilled to officially launch my personal website! This platform is dedicated to sharing my journey in **cybersecurity**, as well as my insights, projects, and resources related to programming and technology.
+After months of planning and development, I'm thrilled to officially launch my personal website! This platform is dedicated to sharing my journey in **Technology**, as well as my insights, projects, and resources related to programming and technology.
 
-The site is built using **Hugo**s, a powerful static site generator, and is hosted on **Azure**, leveraging modern cloud infrastructure to keep everything running smoothly. You can explore blog posts, project breakdowns, and tutorials that dive into key topics, from cybersecurity threats to hands-on coding solutions.
+The site is built using **Hugo**, a powerful static site generator, hosted on **Azure**, and leveraging modern cloud infrastructure to keep everything running smoothly. You can explore blog posts, project breakdowns, tutorials that dive into key topics, and from security threats to hands-on coding solutions.
 
 ### What You’ll Find Here
 
-- **Cybersecurity Insights**: I’ll be regularly sharing my thoughts on current trends and challenges in cybersecurity.
-- **Projects**: Explore some of the hands-on work I’ve done, ranging from security solutions to finance-related customizations.
+- **Technology Industry Insights**: I’ll be regularly sharing my thoughts on current trends and challenges in Technology.
+- **Projects**: Explore some of the hands-on work I’ve done, ranging from technology solutions to finance-related customizations.
 - **Learning Resources**: I plan to create guides and tutorials that will help others navigate the tech landscape, whether you’re a seasoned programmer or just getting started.
 
 ### What’s Next?
 
-This is just the beginning! In the coming weeks, I’ll be adding new blog posts and diving deeper into the projects I’m working on. I want this site to be a resource for anyone interested in **cybersecurity** and **tech innovation**. Keep an eye out for exciting updates!
+This is just the beginning! In the coming weeks, I’ll be adding new blog posts and diving deeper into the projects I’m working on. I want this site to be a resource for anyone interested in **Aritifical Intelligence** and **tech innovation**. Keep an eye out for exciting updates!
 
 ### Let’s Connect
 
