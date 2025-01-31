@@ -6,14 +6,14 @@
     <description>Recent content in Launch on Kaleb Neeble</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Oct 2024 23:51:22 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 23:51:22 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/launch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Launch of My Personal Website</title>
       <link>http://localhost:1313/posts/posts/</link>
-      <pubDate>Tue, 15 Oct 2024 23:51:22 -0500</pubDate>
+      <pubDate>Wed, 23 Oct 2024 23:51:22 -0500</pubDate>
       <guid>http://localhost:1313/posts/posts/</guid>
-      <description>&lt;h2 id=&#34;welcome-to-my-personal-website&#34;&gt;Welcome to My Personal Website!&lt;/h2&gt;&#xA;&lt;p&gt;After months of planning and development, I&amp;rsquo;m thrilled to officially launch my personal website! This platform is dedicated to sharing my journey in &lt;strong&gt;cybersecurity&lt;/strong&gt;, as well as my insights, projects, and resources related to programming and technology.&lt;/p&gt;&#xA;&lt;p&gt;The site is built using &lt;strong&gt;Hugo&lt;/strong&gt;s, a powerful static site generator, and is hosted on &lt;strong&gt;Azure&lt;/strong&gt;, leveraging modern cloud infrastructure to keep everything running smoothly. You can explore blog posts, project breakdowns, and tutorials that dive into key topics, from cybersecurity threats to hands-on coding solutions.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;welcome-to-my-personal-website&#34;&gt;Welcome to My Personal Website!&lt;/h2&gt;&#xA;&lt;p&gt;After months of planning and development, I&amp;rsquo;m thrilled to officially launch my personal website! This platform is dedicated to sharing my journey in &lt;strong&gt;technology&lt;/strong&gt;, as well as my insights, projects, and resources related to programming and technology.&lt;/p&gt;&#xA;&lt;p&gt;The site is built using &lt;strong&gt;hugo&lt;/strong&gt;, a powerful static site generator, hosted on &lt;strong&gt;azure&lt;/strong&gt;, and leveraging modern cloud infrastructure to keep everything running smoothly. You can explore blog posts, project breakdowns, tutorials that dive into key topics, and from security threats to hands-on coding solutions.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ai on Kaleb Neeble</title>
+    <link>http://localhost:1313/tags/ai/</link>
+    <description>Recent content in Ai on Kaleb Neeble</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 23 Oct 2024 23:51:22 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Launch of My Personal Website</title>
+      <link>http://localhost:1313/posts/posts/</link>
+      <pubDate>Wed, 23 Oct 2024 23:51:22 -0500</pubDate>
+      <guid>http://localhost:1313/posts/posts/</guid>
+      <description>&lt;h2 id=&#34;welcome-to-my-personal-website&#34;&gt;Welcome to My Personal Website!&lt;/h2&gt;&#xA;&lt;p&gt;After months of planning and development, I&amp;rsquo;m thrilled to officially launch my personal website! This platform is dedicated to sharing my journey in &lt;strong&gt;technology&lt;/strong&gt;, as well as my insights, projects, and resources related to programming and technology.&lt;/p&gt;&#xA;&lt;p&gt;The site is built using &lt;strong&gt;hugo&lt;/strong&gt;, a powerful static site generator, hosted on &lt;strong&gt;azure&lt;/strong&gt;, and leveraging modern cloud infrastructure to keep everything running smoothly. You can explore blog posts, project breakdowns, tutorials that dive into key topics, and from security threats to hands-on coding solutions.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

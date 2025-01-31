@@ -13,9 +13,9 @@ tags:
 
 ## Welcome to My Personal Website!
 
-After months of planning and development, I'm thrilled to officially launch my personal website! This platform is dedicated to sharing my journey in **Technology**, as well as my insights, projects, and resources related to programming and technology.
+After months of planning and development, I'm thrilled to officially launch my personal website! This platform is dedicated to sharing my journey in **technology**, as well as my insights, projects, and resources related to programming and technology.
 
-The site is built using **Hugo**, a powerful static site generator, hosted on **Azure**, and leveraging modern cloud infrastructure to keep everything running smoothly. You can explore blog posts, project breakdowns, tutorials that dive into key topics, and from security threats to hands-on coding solutions.
+The site is built using **hugo**, a powerful static site generator, hosted on **azure**, and leveraging modern cloud infrastructure to keep everything running smoothly. You can explore blog posts, project breakdowns, tutorials that dive into key topics, and from security threats to hands-on coding solutions.
 
 ### What You’ll Find Here
 
@@ -25,7 +25,7 @@ The site is built using **Hugo**, a powerful static site generator, hosted on **
 
 ### What’s Next?
 
-This is just the beginning! In the coming weeks, I’ll be adding new blog posts and diving deeper into the projects I’m working on. I want this site to be a resource for anyone interested in **Aritifical Intelligence** and **tech innovation**. Keep an eye out for exciting updates!
+This is just the beginning! In the coming weeks, I’ll be adding new blog posts and diving deeper into the projects I’m working on. I want this site to be a resource for anyone interested in **aritifical intelligence** and **tech innovation**. Keep an eye out for exciting updates!
 
 ### Let’s Connect
 

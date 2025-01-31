@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Java on Kaleb Neeble</title>
+    <link>http://localhost:1313/tags/java/</link>
+    <description>Recent content in Java on Kaleb Neeble</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 16 Feb 2024 23:51:22 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DVD-Inspired Screensaver with Java</title>
+      <link>http://localhost:1313/posts/projected/projects1/</link>
+      <pubDate>Fri, 16 Feb 2024 23:51:22 -0500</pubDate>
+      <guid>http://localhost:1313/posts/projected/projects1/</guid>
+      <description>&lt;h2 id=&#34;recreating-the-classic-dvd-screensaver-in-java&#34;&gt;Recreating the Classic DVD Screensaver in Java&lt;/h2&gt;&#xA;&lt;p&gt;One of my recent projects is a &lt;strong&gt;DVD-inspired screensaver&lt;/strong&gt;, built using Java. This project is a nostalgic nod to the iconic bouncing DVD logo that many of us remember from the early 2000s. It’s a simple yet fun application that combines graphics programming with user interaction.&lt;/p&gt;&#xA;&lt;h3 id=&#34;what-it-does&#34;&gt;What It Does&lt;/h3&gt;&#xA;&lt;p&gt;The screensaver replicates the classic DVD logo animation. The logo bounces around the screen, changing direction and color whenever it hits the edges. It’s a lightweight program that runs smoothly, thanks to Java’s graphics libraries.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

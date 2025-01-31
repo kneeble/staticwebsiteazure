@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: "About Me"
 date: 2024-10-15T23:51:22-05:00
 draft: false
 
@@ -11,7 +11,7 @@ tags:
 
 ## Introduction
 
-Hello! My name is Kaleb Neeble and I a student technology enthusiast. This is my personal website where I share insights on technology topics and my journey in the field of cyberseucrity.
+Hello! My name is Kaleb Neeble and I am a student technology enthusiast. This is my personal website where I share insights on technology topics and my journey in the field of computer technology.
 
 I have a strong background in programming, and I love working on projects that involve customization and finance. On this website, you can expect posts on different subjects pertaining to technology and different projects that I am working on.
 

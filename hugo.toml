@@ -13,7 +13,7 @@ pagerSize     = 10
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = "A static website"
+  homeSubtitle = "Personal Portfolio"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -22,7 +22,7 @@ pagerSize     = 10
   enableSharingButtons = true
 
   # Show a global language switcher in the navigation bar
-  enableGlobalLanguageMenu = true
+  enableGlobalLanguageMenu = false
 
 
   # Metadata mostly used in document's head
@@ -55,7 +55,7 @@ pagerSize     = 10
 
 
     [languages.en.params.logo]
-      logoText = "hello visitors"
+      logoText = "Hello Visitors"
       logoHomeLink = "/"
 
     
@@ -70,13 +70,18 @@ pagerSize     = 10
   # And you can even create generic menu
   [[languages.en.menu.main]]
     identifier = "about"
-    name       = "about me"
+    name       = "About Me"
     url        = "/posts/about-me/"
 
-  
+  [[languages.en.menu.main]]
+    identifier = "Projects"
+    name       = "Projects"
+    url        = "/posts/projected/"
+
+
 
   [[languages.en.menu.main]]
       identifier = "posts"
-      name       = "posts"
+      name       = "Posts"
       url        = "/posts/posts"
   

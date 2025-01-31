@@ -1,0 +1,74 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Projects on Kaleb Neeble</title>
+        <link>http://localhost:1313/posts/projected/</link>
+        <description>Recent content in Projects on Kaleb Neeble</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <lastBuildDate>Thu, 24 Oct 2024 23:51:22 -0500</lastBuildDate>
+        <atom:link href="http://localhost:1313/posts/projected/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Static Website on Azure</title>
+            <link>http://localhost:1313/posts/projected/projects/</link>
+            <pubDate>Thu, 24 Oct 2024 23:51:22 -0500</pubDate>
+            
+            <guid>http://localhost:1313/posts/projected/projects/</guid>
+            <description>&lt;h2 id=&#34;static-website-hosted-on-azure&#34;&gt;Static Website Hosted on Azure&lt;/h2&gt;
+&lt;p&gt;This project demonstrates hosting a static website using &lt;strong&gt;Azure Cloud Platform&lt;/strong&gt;. It’s a cost-effective and efficient way to deploy static sites, complete with a CI/CD pipeline for automated deployments.&lt;/p&gt;
+&lt;h3 id=&#34;key-features&#34;&gt;Key Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Azure Cloud Platform&lt;/strong&gt;: The website is hosted on Azure Cloud, a scalable and reliable solution for static content.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CI/CD Pipeline&lt;/strong&gt;: Automated deployments ensure seamless updates whenever changes are pushed to the repository.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Custom Domain with HTTPS&lt;/strong&gt;: The website is secured with a custom domain and HTTPS for a professional touch.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;how-it-works&#34;&gt;How It Works&lt;/h3&gt;
+&lt;p&gt;The website is built using static files (HTML, CSS, JS) and deployed to Azure Cloud Platform. The CI/CD pipeline automates the deployment process, making it easy to update the site with new content.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<h2 id="static-website-hosted-on-azure">Static Website Hosted on Azure</h2>
+<p>This project demonstrates hosting a static website using <strong>Azure Cloud Platform</strong>. It’s a cost-effective and efficient way to deploy static sites, complete with a CI/CD pipeline for automated deployments.</p>
+<h3 id="key-features">Key Features</h3>
+<ul>
+<li><strong>Azure Cloud Platform</strong>: The website is hosted on Azure Cloud, a scalable and reliable solution for static content.</li>
+<li><strong>CI/CD Pipeline</strong>: Automated deployments ensure seamless updates whenever changes are pushed to the repository.</li>
+<li><strong>Custom Domain with HTTPS</strong>: The website is secured with a custom domain and HTTPS for a professional touch.</li>
+</ul>
+<h3 id="how-it-works">How It Works</h3>
+<p>The website is built using static files (HTML, CSS, JS) and deployed to Azure Cloud Platform. The CI/CD pipeline automates the deployment process, making it easy to update the site with new content.</p>
+<h3 id="explore-the-code">Explore the Code</h3>
+<p>You can find the full setup and implementation details on my <a href="https://github.com/kneeble/staticwebsiteazure">GitHub repository</a>. Feel free to check it out and use it as a reference for your own projects!</p>
+<hr>
+<p>This project was a great opportunity to explore cloud hosting and DevOps practices. If you have any questions or feedback, feel free to reach out!</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>DVD-Inspired Screensaver with Java</title>
+            <link>http://localhost:1313/posts/projected/projects1/</link>
+            <pubDate>Fri, 16 Feb 2024 23:51:22 -0500</pubDate>
+            
+            <guid>http://localhost:1313/posts/projected/projects1/</guid>
+            <description>&lt;h2 id=&#34;recreating-the-classic-dvd-screensaver-in-java&#34;&gt;Recreating the Classic DVD Screensaver in Java&lt;/h2&gt;
+&lt;p&gt;One of my recent projects is a &lt;strong&gt;DVD-inspired screensaver&lt;/strong&gt;, built using Java. This project is a nostalgic nod to the iconic bouncing DVD logo that many of us remember from the early 2000s. It’s a simple yet fun application that combines graphics programming with user interaction.&lt;/p&gt;
+&lt;h3 id=&#34;what-it-does&#34;&gt;What It Does&lt;/h3&gt;
+&lt;p&gt;The screensaver replicates the classic DVD logo animation. The logo bounces around the screen, changing direction and color whenever it hits the edges. It’s a lightweight program that runs smoothly, thanks to Java’s graphics libraries.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<h2 id="recreating-the-classic-dvd-screensaver-in-java">Recreating the Classic DVD Screensaver in Java</h2>
+<p>One of my recent projects is a <strong>DVD-inspired screensaver</strong>, built using Java. This project is a nostalgic nod to the iconic bouncing DVD logo that many of us remember from the early 2000s. It’s a simple yet fun application that combines graphics programming with user interaction.</p>
+<h3 id="what-it-does">What It Does</h3>
+<p>The screensaver replicates the classic DVD logo animation. The logo bounces around the screen, changing direction and color whenever it hits the edges. It’s a lightweight program that runs smoothly, thanks to Java’s graphics libraries.</p>
+<h3 id="key-features">Key Features</h3>
+<ul>
+<li><strong>Dynamic Color Changes</strong>: The logo changes color every time it hits the edge of the screen.</li>
+<li><strong>Smooth Edge Detection</strong>: The program ensures the logo bounces accurately off the screen boundaries.</li>
+<li><strong>Customizable Speed</strong>: Users can adjust the speed of the logo to their preference.</li>
+</ul>
+<h3 id="how-it-works">How It Works</h3>
+<p>The program uses Java’s built-in graphics libraries to handle rendering and animation. The logo’s position is updated in real-time, and edge collisions trigger both a direction change and a color update.</p>
+<h3 id="try-it-yourself">Try It Yourself</h3>
+<p>You can find the full code and instructions on my <a href="https://github.com/kneeble/DVDInspiredScreensaver">GitHub repository</a>. Feel free to clone the project, run it locally, or even tweak it to add your own features!</p>
+<hr>
+<p>This project was a great way to explore graphical programming in Java while creating something fun and nostalgic. If you have any questions or suggestions, feel free to reach out!</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
