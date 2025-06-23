@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "C:/Users/kneeb/Documents/GitHub/staticwebsiteazure",
+	"sourceRoot": "C:/Users/kneeb/OneDrive/Documents/GitHub/staticwebsiteazure",
 	"sources": [
 		"themes/hello-friend-ng/assets/scss/main.scss",
 		"themes/hello-friend-ng/assets/scss/_normalize.scss",

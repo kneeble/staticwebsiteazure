@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cybersecurity on Kaleb Neeble</title>
-    <link>http://localhost:1313/tags/cybersecurity/</link>
-    <description>Recent content in Cybersecurity on Kaleb Neeble</description>
+    <title>Detection on Kaleb Neeble</title>
+    <link>http://localhost:1313/tags/detection/</link>
+    <description>Recent content in Detection on Kaleb Neeble</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 23 May 2025 23:51:22 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/detection/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Snort IDS Analysis</title>
       <link>http://localhost:1313/posts/projected/projects2/</link>

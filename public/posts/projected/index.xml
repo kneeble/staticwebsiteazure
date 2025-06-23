@@ -5,8 +5,47 @@
         <description>Recent content in Projects on Kaleb Neeble</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Thu, 24 Oct 2024 23:51:22 -0500</lastBuildDate>
+        <lastBuildDate>Fri, 23 May 2025 23:51:22 -0500</lastBuildDate>
         <atom:link href="http://localhost:1313/posts/projected/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Snort IDS Analysis</title>
+            <link>http://localhost:1313/posts/projected/projects2/</link>
+            <pubDate>Fri, 23 May 2025 23:51:22 -0500</pubDate>
+            
+            <guid>http://localhost:1313/posts/projected/projects2/</guid>
+            <description>&lt;h2 id=&#34;creating-secure-intrusion-detection-system&#34;&gt;Creating Secure Intrusion Detection System&lt;/h2&gt;
+&lt;p&gt;One of my recent projects is a &lt;strong&gt;Instrusion Detection System&lt;/strong&gt;, designed using pcap files. This project is used to demonstrate the various different details of attacks would look like on intrusion detection systems.&lt;/p&gt;
+&lt;h3 id=&#34;what-it-does&#34;&gt;What It Does&lt;/h3&gt;
+&lt;p&gt;The system is used to analyze various TCP ports, detect malformed packets, payloads, and uses custom snort rules to authenicate events/flag.&lt;/p&gt;
+&lt;h3 id=&#34;key-features&#34;&gt;Key Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Port Scan Detection&lt;/strong&gt;: Analyzed TCP port scans, characterized traffic patterns, and created custom snort rules.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Malformed Packet Analysis&lt;/strong&gt;: Identified IP flooding and packet anomalies.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Malicious Payload Identification&lt;/strong&gt;: Used Wireshark to detect and analyze malicious payloads.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Custom Snort Rules&lt;/strong&gt;: Developed rules for TFTP write requests and RADIUS authentication events.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;how-it-works&#34;&gt;How It Works&lt;/h3&gt;
+&lt;p&gt;You are given capture files, which can be used to create your own custom snort rules in order to detect intrusions, as well as analyze in wireshark. Group 1 capture is used for port scanning to find packet anomalies. Group 2 is used as a capture to help demonstrate the appearance of malformed packets. Group 3 is used to detect malicious payloads through snort. Finally, Group 4 is used to create your own custom snort rules to detection instrusions into the system which can send alerts and detect anomalies/attacks.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<h2 id="creating-secure-intrusion-detection-system">Creating Secure Intrusion Detection System</h2>
+<p>One of my recent projects is a <strong>Instrusion Detection System</strong>, designed using pcap files. This project is used to demonstrate the various different details of attacks would look like on intrusion detection systems.</p>
+<h3 id="what-it-does">What It Does</h3>
+<p>The system is used to analyze various TCP ports, detect malformed packets, payloads, and uses custom snort rules to authenicate events/flag.</p>
+<h3 id="key-features">Key Features</h3>
+<ul>
+<li><strong>Port Scan Detection</strong>: Analyzed TCP port scans, characterized traffic patterns, and created custom snort rules.</li>
+<li><strong>Malformed Packet Analysis</strong>: Identified IP flooding and packet anomalies.</li>
+<li><strong>Malicious Payload Identification</strong>: Used Wireshark to detect and analyze malicious payloads.</li>
+<li><strong>Custom Snort Rules</strong>: Developed rules for TFTP write requests and RADIUS authentication events.</li>
+</ul>
+<h3 id="how-it-works">How It Works</h3>
+<p>You are given capture files, which can be used to create your own custom snort rules in order to detect intrusions, as well as analyze in wireshark. Group 1 capture is used for port scanning to find packet anomalies. Group 2 is used as a capture to help demonstrate the appearance of malformed packets. Group 3 is used to detect malicious payloads through snort. Finally, Group 4 is used to create your own custom snort rules to detection instrusions into the system which can send alerts and detect anomalies/attacks.</p>
+<h3 id="try-it-yourself">Try It Yourself</h3>
+<p>You can find the full code and instructions on my <a href="https://github.com/kneeble/IDS-Snort-Analysis">GitHub repository</a>. Feel free to clone the project, analyze locally, or even tweak it to add your own detections/features!</p>
+<hr>
+<p>This project was a great way to explore security threats while creating something fun and nostalgic. If you have any questions or suggestions, feel free to reach out!</p>
+]]></content>
+        </item>
         
         <item>
             <title>Static Website on Azure</title>
