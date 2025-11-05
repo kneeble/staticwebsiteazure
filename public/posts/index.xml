@@ -5,13 +5,13 @@
         <description>Recent content in Posts on Kaleb Neeble</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Thu, 24 Oct 2024 23:51:22 -0500</lastBuildDate>
+        <lastBuildDate>Fri, 23 May 2025 23:51:22 -0500</lastBuildDate>
         <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>Projects</title>
             <link>http://localhost:1313/posts/projected/</link>
-            <pubDate>Thu, 24 Oct 2024 23:51:22 -0500</pubDate>
+            <pubDate>Fri, 23 May 2025 23:51:22 -0500</pubDate>
             
             <guid>http://localhost:1313/posts/projected/</guid>
             <description></description>
@@ -58,6 +58,7 @@
 <p>I have a strong background in programming, and I love working on projects that involve customization and finance. On this website, you can expect posts on different subjects pertaining to technology and different projects that I am working on.</p>
 <h3 id="contact-me">Contact Me</h3>
 <p>Feel free to reach out on <a href="https://www.linkedin.com/in/kaleb-neeble-8a7983273/">LinkedIn</a> and follow my projects on <a href="https://github.com/kneeble">Github</a></p>
+<h2></h2>
 ]]></content>
         </item>
         
