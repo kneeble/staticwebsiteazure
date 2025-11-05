@@ -60,6 +60,7 @@ jobs:
           api_location: ""            # No API
           output_location: "public"   # Hugo's build output folder
           github_id_token: ${{ steps.idtoken.outputs.result }}
+          skip_app_build: true        # Skip Azure's default build system (Oryx)
 
   close_pull_request_job:
     if: github.event_name == 'pull_request' && github.event.action == 'closed'
