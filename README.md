@@ -6,16 +6,16 @@
 ![Code Size](https://img.shields.io/github/languages/code-size/kneeble/staticwebsiteazure)  
 ![Last Commit](https://img.shields.io/github/last-commit/kneeble/staticwebsiteazure)
 
-This repository contains a professional-grade static website built using **Hugo** and hosted on **Azure Web App**. Leveraging **GitHub Actions** for automated deployment, this project demonstrates skills in modern web development, CI/CD pipelines, and cloud hosting services. It showcases my ability to handle end-to-end web project deployment and management, making it an ideal example of my technical and DevOps skills for potential recruiters.
+This repository contains a professional grade static website built using **Hugo** and hosted on **Azure Web App**. Leveraging **GitHub Actions** for automated deployment, this project demonstrates skills in modern web development, CI/CD pipelines, and cloud hosting services. It showcases my ability to handle end-to-end web project deployment and management, making it an ideal example of my technical and DevOps skills for potential recruiters.
 
 ---
 
 ## **Key Features**
 
-- **Fast Static Site Generation**: Built with Hugo for blazing-fast static site generation.
+- **Fast Static Site Generation**: Built with Hugo for blazing fast static site generation.
 - **CI/CD with GitHub Actions**: Fully automated deployment to Azure Web App, integrating Continuous Integration and Continuous Deployment to streamline updates.
-- **Cloud Hosting with Azure**: Hosted on Azure Web App, using industry-leading cloud services for scalability, reliability, and performance.
-- **Optimized for Professional Use**: The site is designed with best practices in mind—clean, responsive, and easily extendable.
+- **Cloud Hosting with Azure**: Hosted on Azure Web App, using industry leading cloud services for scalability, reliability, and performance.
+- **Optimized for Professional Use**: The site is designed with best practices clean, responsive, and easily extendable.
 
 ---
 
