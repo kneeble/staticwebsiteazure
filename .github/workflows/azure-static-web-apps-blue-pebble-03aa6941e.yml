@@ -1,5 +1,7 @@
 name: Azure Static Web Apps CI/CD
 
+
+
 on:
   push:
     branches:
@@ -9,66 +11,56 @@ on:
     branches:
       - main
 
+
+
 jobs:
+
   build_and_deploy_job:
     if: github.event_name == 'push' || (github.event_name == 'pull_request' && github.event.action != 'closed')
     runs-on: ubuntu-latest
     name: Build and Deploy Job
-    permissions:
-      id-token: write
-      contents: read
 
     steps:
-      # Checkout the repository
+
+      # Step 1: Checkout the repository
+
       - uses: actions/checkout@v3
+
         with:
           submodules: true
-          lfs: false
 
-      # Set up Hugo (extended version for SCSS support)
+
+
+      # Step 2: Set up Hugo (extended version for SCSS support)
+
       - name: Set up Hugo
         uses: peaceiris/actions-hugo@v3
+
         with:
+
           hugo-version: 'latest'
           extended: true
 
-      # Build the Hugo site
+
+
+      # Step 3: Build the Hugo site
+
       - name: Build Hugo site
         run: hugo --minify
 
-      # Install OIDC client
-      - name: Install OIDC Client from Core Package
-        run: npm install @actions/core@1.6.0 @actions/http-client
 
-      # Get GitHub ID token for OIDC authentication
-      - name: Get Id Token
-        uses: actions/github-script@v6
-        id: idtoken
-        with:
-          script: |
-            return await core.getIDToken()
-          result-encoding: string
 
-      # Deploy to Azure Static Web Apps using GitHub OIDC
-      - name: Build And Deploy
+      # Step 4: Deploy to Azure Static Web Apps
+
+      - name: Build And Deploy to Azure
         id: builddeploy
         uses: Azure/static-web-apps-deploy@v1
+
         with:
           azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN }}
+          repo_token: ${{ secrets.GITHUB_TOKEN }} # Used for Github integrations (i.e. PR comments)
           action: "upload"
-          app_location: "/"           # Root of your Hugo site
-          api_location: ""            # No API
-          output_location: "public"   # Hugo's build output folder
-          github_id_token: ${{ steps.idtoken.outputs.result }}
-          skip_app_build: true        # Skip Azure's default build system (Oryx)
+          app_location: "/"         # This is the root of your Hugo site
+          api_location: ""          # No API directory
+          output_location: "public" # Output directory where Hugo builds the site
 
-  close_pull_request_job:
-    if: github.event_name == 'pull_request' && github.event.action == 'closed'
-    runs-on: ubuntu-latest
-    name: Close Pull Request Job
-    steps:
-      - name: Close Pull Request
-        id: closepullrequest
-        uses: Azure/static-web-apps-deploy@v1
-        with:
-          action: "close"
