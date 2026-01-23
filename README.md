@@ -1,6 +1,6 @@
 # **Static Website on Azure**
 
-![Deploy Status](https://github.com/kneeble/staticwebsiteazure/actions/workflows/azure-static-web-apps-white-water-03e1a871e.yml/badge.svg)  
+![Deploy Status](https://github.com/kneeble/staticwebsiteazure/actions/workflows/azure-static-web-apps-icy-dune-055cf6810.yml/badge.svg)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 ![Hugo Version](https://img.shields.io/badge/Hugo-0.104.0-blue.svg)  
 ![Code Size](https://img.shields.io/github/languages/code-size/kneeble/staticwebsiteazure)  
